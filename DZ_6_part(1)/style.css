@@ -40,6 +40,7 @@ input:focus {
 .p4:first-letter {
 	font-family: "Georgia";
     font-size: 2em; 
+    color: red;
 
 }
 p:after {
@@ -47,6 +48,7 @@ p:after {
 }
 p:before {
 	content: "\2602";
+	float: left;
 
 }
 .block {
